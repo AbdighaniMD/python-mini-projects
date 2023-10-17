@@ -6,7 +6,7 @@
 **Server:** Python
 
 # About
-- Complete beginner to intermediate Python Programmer
+- Beginner project's
 
 # Project 1
 - Roll dice 
