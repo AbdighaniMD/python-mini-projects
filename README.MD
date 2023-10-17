@@ -8,6 +8,7 @@
 # About
 - Beginner project's
 
-# Project 1
-- Roll dice 
+# Project's 
+- Roll dice
+- Dynamic madlibs generator story
 
