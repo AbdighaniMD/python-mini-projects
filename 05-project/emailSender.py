@@ -10,5 +10,5 @@ def sendEmail(recipentEmail, recipentContent):
     server.login('abdighanimd02@gmail.com', 'password')
     server.sendmail('abdighanimd02@gmail.com', recipentEmail, recipentContent)
     server.close()
-
+    
 sendEmail(recipentEmail, recipentContent)
