@@ -11,4 +11,4 @@ def sendEmail(recipentEmail, recipentContent):
     server.sendmail('abdighanimd02@gmail.com', recipentEmail, recipentContent)
     server.close()
     
-sendEmail(recipentEmail, recipentContent)
+sendEmail(recipentEmail, recipentContent) 
