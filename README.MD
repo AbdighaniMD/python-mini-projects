@@ -17,5 +17,7 @@
 - Speed Test
 - Screen Shot
 - Password Generator
+- Work Setup Automation: Open list of frequently used web browser 
+- tips&tricks: Conver .py into .exe || Run .exe on Bootup
 
 
