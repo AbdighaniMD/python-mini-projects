@@ -1,2 +1,2 @@
 #install: "pip install pyinstaller"
-print("pyinstaller -F workSetupAutomation.py")
+print(" Conver .py into .exe || ","pyinstaller -F workSetupAutomation.py")
