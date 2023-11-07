@@ -6,7 +6,7 @@
 **Server:** Python
 
 # About
-- Beginner project's
+- Beginner into Intermediate project's
 
 # Project's 
 - Roll dice
@@ -16,5 +16,6 @@
 - Email Sender
 - Speed Test
 - Screen Shot
+- Password Generator
 
 
