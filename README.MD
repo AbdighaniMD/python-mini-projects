@@ -21,5 +21,6 @@
 - tips&tricks: Conver .py into .exe || Run .exe on Bootup
 - Url Shortener Application
 - Wikipedia Search Application
+- Windows Notify Application
 
 
