@@ -24,5 +24,6 @@
 - Windows Notify Application
 - Youtube Downloader Application
 - Audio Extractor Application
+- QR-Code Generator
 
 
