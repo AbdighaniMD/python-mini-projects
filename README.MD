@@ -25,5 +25,6 @@
 - Youtube Downloader Application
 - Audio Extractor Application
 - QR-Code Generator
+- News Updater Application
 
 
